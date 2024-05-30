@@ -1,6 +1,6 @@
 body 
 {
-    background: url("img/Wallpaper.jpg") no-repeat center center fixed;
+    background: url("img/wallpaper.jpg") no-repeat center center fixed;
     background-size: cover;
     min-height: 100vh;
     display: flex;
